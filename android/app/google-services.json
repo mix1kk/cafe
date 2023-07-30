@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993889218592",
+    "project_id": "cafe-ksusha",
+    "storage_bucket": "cafe-ksusha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993889218592:android:72ec8c7aaab54207f48c45",
+        "android_client_info": {
+          "package_name": "com.example.cafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993889218592-oi2p5ven0cvbu001r8gumbg0tm991584.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCguWHDHW-vL0Jc3JeSsP-2p6PkxcQCSQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993889218592-oi2p5ven0cvbu001r8gumbg0tm991584.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
